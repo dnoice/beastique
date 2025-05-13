@@ -1,0 +1,39 @@
+{
+  "animal_id": "monarch_butterfly",
+  "common_name": "Monarch Butterfly",
+  "display_name": "Monarch Butterfly",
+  "scientific_name": "Danaus plexippus",
+  "scientific_taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Lepidoptera",
+    "family": "Nymphalidae",
+    "genus": "Danaus",
+    "species": "D. plexippus"
+  },
+  "project_category": "insecta",
+  "conservation_status": "Endangered",
+  "conservation_trend": "Decreasing",
+  "population_remaining": "Decreased by 80% in two decades",
+  "range": "North America to Central America (migration)",
+  "habitat": "Fields, meadows, gardens with milkweed plants",
+  "wingspan": "3.5-4 inches (9-10 cm)",
+  "lifespan": "2-6 weeks (summer generations), 6-9 months (migratory generation)",
+  "primary_threats": [
+    "Habitat loss (milkweed destruction)",
+    "Pesticide use",
+    "Climate change disrupting migration",
+    "Deforestation of overwintering sites"
+  ],
+  "narrative": "The monarch's wings are like pages torn from Earth's story, each one lost is a chapter we can never read again. These living stained-glass windows perform one of nature's most extraordinary feats—a multi-generational migration spanning thousands of miles. Yet the orange tide of their migration has thinned dramatically. Places that once witnessed millions of monarchs now see mere thousands. The delicate choreography between butterfly and milkweed, perfected over millennia, unravels as we plow, spray, and develop their critical habitats. Their decline isn't just about losing a beautiful insect—it's the unraveling of an entire ecological tapestry. As monarchs fade, we lose a living connection between North and Central America, a reminder that nature transcends our borders and demands our collective protection.",
+  "quick_fact": "Monarchs navigate 3,000 miles during migration using a combination of sun position and Earth's magnetic field",
+  "conservation_urgency": 80,
+  "image_paths": {
+    "featured": "/assets/images/animals/featured/monarch_butterfly_1.png",
+    "standard": "/assets/images/animals/insecta/monarch_butterfly_1.png",
+    "thumbnails": ["/assets/images/animals/thumbnails/monarch_butterfly_1.png"]
+  },
+  "special_galleries": ["endangered", "remarkable_migrations"],
+  "display_priority": 85
+}
