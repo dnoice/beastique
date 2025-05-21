@@ -1,0 +1,469 @@
+
+[
+  {
+    "animal_id": "african_elephant",
+    "common_name": "African Elephant",
+    "display_name": "African Elephant",
+    "scientific_name": "Loxodonta africana",
+    "scientific_taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Proboscidea",
+      "family": "Elephantidae",
+      "genus": "Loxodonta",
+      "species": "L. africana"
+    },
+    "project_category": "terrestrial",
+    "conservation_status": "Endangered",
+    "conservation_trend": "Decreasing",
+    "population_remaining": "Approximately 415,000 individuals",
+    "conservation_urgency": 75,
+    "endemic_to": "Sub-Saharan Africa",
+    "habitat": "Savannas, forests, deserts, and marshes across Africa",
+    "primary_threats": [
+      "Poaching for ivory",
+      "Habitat loss and fragmentation",
+      "Human-wildlife conflict"
+    ],
+    "images": [
+      {
+        "id": "african_elephant_1",
+        "standard": "/assets/images/animals/terrestrial/african_elephant_1.png",
+        "thumbnail": "/assets/images/animals/thumbnails/african_elephant_1.png",
+        "dimensions": {
+          "width": 2029,
+          "height": 1241
+        },
+        "colors": [
+          {
+            "name": "orange",
+            "hex": "#a87a4d",
+            "dominance": 0.21
+          },
+          {
+            "name": "orange",
+            "hex": "#89471b",
+            "dominance": 0.19
+          },
+          {
+            "name": "orange",
+            "hex": "#dbb06f",
+            "dominance": 0.13
+          }
+        ]
+      }
+    ],
+    "narrative": "Walking libraries of ancient wisdom, these gentle giants carry the memories of generations in their wrinkled hides. As keystone architects of African ecosystems, each elephant lost tears a hole in the fabric of wilderness that stretches far beyond their massive footprints. Their trumpet calls—once heard across entire countries—grow fainter as the tusks that evolved as tools become death sentences. Complex social structures collapse as matriarchs fall to bullets, leaving orphaned calves with no inheritance of knowledge. What we lose is not just an animal, but an entire dimension of the wild.",
+    "special_galleries": ["endangered", "mammals", "keystone_species"],
+    "display_priority": 90
+  },
+  {
+    "animal_id": "cheetah",
+    "common_name": "Cheetah",
+    "display_name": "Cheetah",
+    "scientific_name": "Acinonyx jubatus",
+    "scientific_taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Felidae",
+      "genus": "Acinonyx",
+      "species": "A. jubatus"
+    },
+    "project_category": "terrestrial",
+    "conservation_status": "Vulnerable",
+    "conservation_trend": "Decreasing",
+    "population_remaining": "Less than 7,000 individuals in the wild",
+    "conservation_urgency": 70,
+    "endemic_to": "Africa and small populations in Iran",
+    "habitat": "Open grasslands, savannas, and scrubby woodlands",
+    "primary_threats": [
+      "Habitat loss and fragmentation",
+      "Human-wildlife conflict",
+      "Prey base depletion"
+    ],
+    "images": [
+      {
+        "id": "cheetah_1",
+        "standard": "/assets/images/animals/terrestrial/cheetah_1.png",
+        "thumbnail": "/assets/images/animals/thumbnails/cheetah_1.png",
+        "dimensions": {
+          "width": 2031,
+          "height": 1133
+        },
+        "colors": [
+          {
+            "name": "orange",
+            "hex": "#d0a152",
+            "dominance": 0.21
+          },
+          {
+            "name": "gray",
+            "hex": "#a2a99d",
+            "dominance": 0.2
+          },
+          {
+            "name": "orange",
+            "hex": "#885827",
+            "dominance": 0.19
+          }
+        ]
+      }
+    ],
+    "narrative": "Evolution's perfect sprint experiment now races against extinction. A body built for breathtaking acceleration—zero to sixty in three seconds—finds nowhere left to run as grasslands shrink into islands. Their signature spots, once camouflage in dappled light, now make them targets for conflict with humans when livestock becomes easier prey than vanishing wildlife. With genetic diversity collapsing faster than their speed record, each lost cheetah represents an irreplaceable evolutionary miracle unraveling before our eyes. What took millions of years to perfect may disappear in a conservation blink.",
+    "special_galleries": ["vulnerable", "predators", "mammals"],
+    "display_priority": 75
+  },
+  {
+    "animal_id": "great_white_shark",
+    "common_name": "Great White Shark",
+    "display_name": "Great White Shark",
+    "scientific_name": "Carcharodon carcharias",
+    "scientific_taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Chondrichthyes",
+      "order": "Lamniformes",
+      "family": "Lamnidae",
+      "genus": "Carcharodon",
+      "species": "C. carcharias"
+    },
+    "project_category": "aquatic",
+    "conservation_status": "Vulnerable",
+    "conservation_trend": "Unknown",
+    "population_remaining": "Estimated 3,000-5,000 individuals",
+    "conservation_urgency": 65,
+    "endemic_to": "Coastal and offshore waters worldwide in temperate regions",
+    "habitat": "Coastal and offshore oceanic habitats, typically in waters with temperatures between 12-24°C",
+    "primary_threats": [
+      "Commercial and recreational fishing",
+      "Bycatch in fishing gear",
+      "Shark finning",
+      "Ocean pollution"
+    ],
+    "images": [
+      {
+        "id": "great_white_shark_1",
+        "standard": "/assets/images/animals/aquatic/great_white_shark_1.png",
+        "thumbnail": "/assets/images/animals/thumbnails/great_white_shark_1.png",
+        "dimensions": {
+          "width": 1955,
+          "height": 1127
+        },
+        "colors": [
+          {
+            "name": "cyan",
+            "hex": "#143141",
+            "dominance": 0.35
+          },
+          {
+            "name": "cyan",
+            "hex": "#176583",
+            "dominance": 0.11
+          },
+          {
+            "name": "cyan",
+            "hex": "#8fafb4",
+            "dominance": 0.06
+          }
+        ]
+      }
+    ],
+    "narrative": "Demonized in culture but devastated in reality, the ocean's perfect predator now faces threats more terrifying than any film portrayal. These evolutionary marvels—unchanged for 16 million years—possess sensory systems so advanced they can detect a single drop of blood in an Olympic swimming pool. Yet for all their power, they remain defenseless against the industrial-scale slaughter that claims tens of millions of sharks annually. Each lost great white represents the disappearance of an irreplaceable oceanic guardian whose absence cascades through marine ecosystems in ways we've only begun to understand.",
+    "special_galleries": ["vulnerable", "predators", "sharks"],
+    "display_priority": 85
+  },
+  {
+    "animal_id": "leatherback_sea_turtle",
+    "common_name": "Leatherback Sea Turtle",
+    "display_name": "Leatherback Sea Turtle",
+    "scientific_name": "Dermochelys coriacea",
+    "scientific_taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Testudines",
+      "family": "Dermochelyidae",
+      "genus": "Dermochelys",
+      "species": "D. coriacea"
+    },
+    "project_category": "aquatic",
+    "conservation_status": "Critically Endangered",
+    "conservation_trend": "Decreasing",
+    "population_remaining": "Less than 35,000 nesting females globally",
+    "conservation_urgency": 85,
+    "endemic_to": "Tropical and subtropical oceans worldwide",
+    "habitat": "Open ocean and coastal waters, nesting on sandy beaches",
+    "primary_threats": [
+      "Plastic pollution and ingestion",
+      "Fisheries bycatch",
+      "Egg harvesting",
+      "Coastal development disrupting nesting sites"
+    ],
+    "images": [
+      {
+        "id": "leatherback_sea_turtle_1",
+        "standard": "/assets/images/animals/aquatic/leatherback_sea_turtle_1.png",
+        "thumbnail": "/assets/images/animals/thumbnails/leatherback_sea_turtle_1.png",
+        "dimensions": {
+          "width": 1921,
+          "height": 1172
+        },
+        "colors": [
+          {
+            "name": "green",
+            "hex": "#34443f",
+            "dominance": 0.24
+          },
+          {
+            "name": "yellowgreen",
+            "hex": "#54655b",
+            "dominance": 0.21
+          },
+          {
+            "name": "orange",
+            "hex": "#613c21",
+            "dominance": 0.21
+          }
+        ]
+      }
+    ],
+    "narrative": "Ancient mariners navigating by stars they never see, these gentle giants have traversed ocean basins for over 100 million years only to find their migratory paths now strewn with human-made obstacles. With bodies engineered for marathon oceanic journeys—diving deeper than any other turtle and maintaining internal temperatures in frigid waters—they return unerringly to natal beaches now shrinking under rising seas. Each plastic bag mistaken for a jellyfish becomes a silent killer, while fishing lines entangle flippers evolved for graceful movement. We stand to lose not just a species, but a living connection to Earth's prehistoric past.",
+    "special_galleries": ["critically_endangered", "reptiles", "marine"],
+    "display_priority": 80
+  },
+  {
+    "animal_id": "polar_bear",
+    "common_name": "Polar Bear",
+    "display_name": "Polar Bear",
+    "scientific_name": "Ursus maritimus",
+    "scientific_taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Ursidae",
+      "genus": "Ursus",
+      "species": "U. maritimus"
+    },
+    "project_category": "terrestrial",
+    "conservation_status": "Vulnerable",
+    "conservation_trend": "Decreasing",
+    "population_remaining": "Approximately 22,000-31,000 individuals",
+    "conservation_urgency": 75,
+    "endemic_to": "Arctic regions of the Northern Hemisphere",
+    "habitat": "Sea ice and coastal areas of the Arctic Circle",
+    "primary_threats": [
+      "Climate change and sea ice loss",
+      "Oil and gas development in the Arctic",
+      "Pollution and toxins in the food chain"
+    ],
+    "images": [
+      {
+        "id": "polar_bear_1",
+        "standard": "/assets/images/animals/terrestrial/polar_bear_1.png",
+        "thumbnail": "/assets/images/animals/thumbnails/polar_bear_1.png",
+        "dimensions": {
+          "width": 1880,
+          "height": 1089
+        },
+        "colors": [
+          {
+            "name": "gray",
+            "hex": "#adb1b2",
+            "dominance": 0.29
+          },
+          {
+            "name": "cyan",
+            "hex": "#7e8c95",
+            "dominance": 0.22
+          },
+          {
+            "name": "white",
+            "hex": "#ded8d3",
+            "dominance": 0.18
+          }
+        ]
+      }
+    ],
+    "narrative": "Sentinels of a vanishing world, these arctic monarchs watch as their frozen kingdom dissolves beneath their paws. Perfectly adapted through millennia to a life on sea ice—from hollow guard hairs that capture solar heat to massive paws that distribute weight while stalking seals—they now face a rapidly warming climate rewriting the rules of their existence. Each additional day they're forced to swim between increasingly distant ice floes depletes energy reserves evolved for different challenges. We witness in real-time the transformation of an apex predator into a climate refugee, their white coats becoming grim flags of warming that humanity has yet to fully confront.",
+    "special_galleries": ["vulnerable", "predators", "climate_change", "mammals"],
+    "display_priority": 88
+  },
+  {
+    "animal_id": "red_velvet_ant",
+    "common_name": "Red Velvet Ant",
+    "display_name": "Red Velvet Ant (Cow Killer)",
+    "scientific_name": "Dasymutilla occidentalis",
+    "scientific_taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Insecta",
+      "order": "Hymenoptera",
+      "family": "Mutillidae",
+      "genus": "Dasymutilla",
+      "species": "D. occidentalis"
+    },
+    "project_category": "invertebrate",
+    "conservation_status": "Least Concern",
+    "conservation_trend": "Stable",
+    "population_remaining": "Unknown, populations appear stable",
+    "conservation_urgency": 20,
+    "endemic_to": "Eastern United States",
+    "habitat": "Open fields, forest edges, and sandy areas",
+    "primary_threats": [
+      "Pesticide use",
+      "Habitat loss to urban development",
+      "Decline in host species"
+    ],
+    "images": [
+      {
+        "id": "red_velvet_ant_1",
+        "standard": "/assets/images/animals/invertebrate/red_velvet_ant_1.png",
+        "thumbnail": "/assets/images/animals/thumbnails/red_velvet_ant_1.png",
+        "dimensions": {
+          "width": 1821,
+          "height": 1053
+        },
+        "colors": [
+          {
+            "name": "red",
+            "hex": "#50261e",
+            "dominance": 0.26
+          },
+          {
+            "name": "orange",
+            "hex": "#8b4e32",
+            "dominance": 0.17
+          },
+          {
+            "name": "orange",
+            "hex": "#c18854",
+            "dominance": 0.15
+          }
+        ]
+      }
+    ],
+    "narrative": "Flaunting vibrant warning colors across sandy soils, these misunderstood creatures embody nature's beautiful deceptions. Not ants at all but wingless female wasps, their exoskeleton armor and excruciating sting—nicknamed 'cow killers'—represent evolutionary responses to a world filled with predators. Their solitary lives as parasitoids of ground-nesting bees and wasps maintain delicate ecological balances often invisible to human observers. While currently secure in numbers, their dependence on specific host species and undisturbed habitats makes them silent indicators of ecosystem health in places where insect diversity faces mounting pressures from human development.",
+    "special_galleries": ["insects", "parasites", "mimicry"],
+    "display_priority": 45
+  },
+  {
+    "animal_id": "scarlet_macaw",
+    "common_name": "Scarlet Macaw",
+    "display_name": "Scarlet Macaw",
+    "scientific_name": "Ara macao",
+    "scientific_taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Psittaciformes",
+      "family": "Psittacidae",
+      "genus": "Ara",
+      "species": "A. macao"
+    },
+    "project_category": "avian",
+    "conservation_status": "Vulnerable",
+    "conservation_trend": "Decreasing",
+    "population_remaining": "Less than 50,000 individuals in the wild",
+    "conservation_urgency": 65,
+    "endemic_to": "Central and South America",
+    "habitat": "Humid evergreen forests, especially tropical rainforests, river edges and savannas",
+    "primary_threats": [
+      "Illegal wildlife trade for pet industry",
+      "Deforestation and habitat loss",
+      "Hunting for feathers and meat"
+    ],
+    "images": [
+      {
+        "id": "scarlet_macaw_1",
+        "standard": "/assets/images/animals/avian/scarlet_macaw_1.png",
+        "thumbnail": "/assets/images/animals/thumbnails/scarlet_macaw_1.png",
+        "dimensions": {
+          "width": 2664,
+          "height": 1530
+        },
+        "colors": [
+          {
+            "name": "red",
+            "hex": "#3a2f32",
+            "dominance": 0.3
+          },
+          {
+            "name": "magenta",
+            "hex": "#5c4f53",
+            "dominance": 0.25
+          },
+          {
+            "name": "magenta",
+            "hex": "#887178",
+            "dominance": 0.11
+          }
+        ]
+      }
+    ],
+    "narrative": "Flying jewels of the Neotropical canopy, these birds carry the colors of sunset on their wings as they navigate a shrinking world. With intelligence that rivals primates and lifespans approaching human decades, they form pair bonds that persist through years of adversity—each mated pair representing a commitment to continuation against mounting odds. Their raucous calls, once the soundtrack of expansive rainforests, now echo through fragmented patches of habitat where poachers lurk for valuable captures destined for the illegal pet trade. We lose not just spectacular plumage when they disappear, but seed dispersers whose ecological memory helps regenerate the very forests dying around them.",
+    "special_galleries": ["vulnerable", "birds", "tropical", "endangered"],
+    "display_priority": 70
+  },
+  {
+    "animal_id": "variegated_bush_frog",
+    "common_name": "Variegated Bush Frog",
+    "display_name": "Variegated Bush Frog",
+    "scientific_name": "Raorchestes variegatus",
+    "scientific_taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Amphibia",
+      "order": "Anura",
+      "family": "Rhacophoridae",
+      "genus": "Raorchestes",
+      "species": "R. variegatus"
+    },
+    "project_category": "amphibian",
+    "conservation_status": "Endangered",
+    "conservation_trend": "Decreasing",
+    "population_remaining": "Unknown, rapidly declining",
+    "conservation_urgency": 75,
+    "endemic_to": "Western Ghats, India",
+    "habitat": "Tropical montane forests and high-altitude grasslands",
+    "primary_threats": [
+      "Habitat destruction",
+      "Climate change affecting breeding cycles",
+      "Fungal diseases including chytridiomycosis"
+    ],
+    "images": [
+      {
+        "id": "variegated_bush_frog_1",
+        "standard": "/assets/images/animals/amphibian/variegated_bush_frog_1.png",
+        "thumbnail": "/assets/images/animals/thumbnails/variegated_bush_frog_1.png",
+        "dimensions": {
+          "width": 1796,
+          "height": 1028
+        },
+        "colors": [
+          {
+            "name": "orange",
+            "hex": "#eee1d1",
+            "dominance": 0.22
+          },
+          {
+            "name": "red",
+            "hex": "#877975",
+            "dominance": 0.19
+          },
+          {
+            "name": "orange",
+            "hex": "#bdb0a6",
+            "dominance": 0.13
+          }
+        ]
+      }
+    ],
+    "narrative": "Hidden in dwindling cloud forests, these tiny amphibians represent an evolutionary miracle now fading into silent extinction. With extraordinarily direct development—bypassing the tadpole stage to emerge as fully formed froglets from eggs—they embody nature's ingenious adaptations to specialized niches. Their permeable skin, once an evolutionary advantage for breathing and hydration, now acts as a conduit for environmental toxins and deadly fungal pathogens. As amphibians worldwide face collapse, these diminutive creatures stand as canaries in Earth's environmental coal mine—their decline potentially foretelling broader ecosystem failures that will eventually reach our doorsteps.",
+    "special_galleries": ["endangered", "amphibians", "endemic_species"],
+    "display_priority": 60
+  }
+]
